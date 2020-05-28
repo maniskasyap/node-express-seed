@@ -1,0 +1,6 @@
+{
+  "exec": "npm run dev",
+  "verbose": true,
+  "watch": ["server/*", "public/*"],
+  "ignore": ["*.spec.js"]
+}
